@@ -16,8 +16,8 @@ Restaurant Customers
 The location-based recommender can be used by people to decide which restaurant they want to visit in a particular area.
 
 Project Work Flow :
-Data compilation and cleaning
-Exploratory data analysis
-K-means clustering for location based recomender
-Logistic Regression Model
+Data compilation and cleaning,
+Exploratory data analysis,
+K-means clustering for location based recomender,
+Logistic Regression Model,
 Principal Component Analysis
