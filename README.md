@@ -6,13 +6,13 @@ For this project, I choose to look at data on restaurants in a different locatio
 Why look at the relationship between income level and restaurants? and Who can benefit?
 If we can navigate the relation between neighborhood income and restaurant preferences, it will be useful for restaurant owners as well as policymakers.
 
-Restaurant Owners 
+Restaurant Owners:
 It would open up avenues to predict what kind of restaurant will succeed in a certain location? what features restaurant owners should priorities for a certain locality? 
 
-Policy Makers
+Policy Makers:
  For policymakers, it would open up one more avenue to analyze the influence of income segregation, especially in low-income areas.
 
-Restaurant Customers
+Restaurant Customers:
 The location-based recommender can be used by people to decide which restaurant they want to visit in a particular area.
 
 Project Work Flow :
