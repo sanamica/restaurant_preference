@@ -7,7 +7,7 @@ Why look at the relationship between income level and restaurants? and Who can b
 If we can navigate the relation between neighborhood income and restaurant preferences, it will be useful for restaurant owners as well as policymakers.
 
 Restaurant Owners 
-It would open up avenues to predict what kind of restaurant will succeed in a certain location. Or what features restaurant owners should priorities for a certain locality. What types of restaurants do well in a particular location.
+It would open up avenues to predict what kind of restaurant will succeed in a certain location? what features restaurant owners should priorities for a certain locality? 
 
 Policy Makers
  For policymakers, it would open up one more avenue to analyze the influence of income segregation, especially in low-income areas.
